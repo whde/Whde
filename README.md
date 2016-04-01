@@ -1,6 +1,6 @@
 # 吴海德 Whde (未完)
 
-### 个人信息<img src="https://raw.githubusercontent.com/whde/whde.github.com/master/psb.jpeg" alt="吴海德" align="right">
+### 个人信息<img src="https://raw.githubusercontent.com/whde/whde.github.com/master/psb.jpeg" alt="吴海德" align="right" width="100" height="100%">
 
 - 男
 - 1989–11-29
