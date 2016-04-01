@@ -1,4 +1,4 @@
-# 吴海德 Whde (未完)
+# 吴海德 Whde 
 
 ### 个人信息<img src="https://raw.githubusercontent.com/whde/whde.github.com/master/psb.jpeg" alt="吴海德" align="right" width="150" height="100%">
 
