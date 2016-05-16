@@ -14,7 +14,20 @@
 
 ### 专业技能
 - 3 年以上iOS开发经验
-
+- 熟练使用Swift语言开发，Swift和Objective-C混合开发。
+- 熟练使用微信、微博、QQ、Facebook登录机分享；
+- 熟练使用支付宝、微信支付
+- 熟练使用线程及GCD使用；
+- 熟练Block使用；
+- 熟练使用Cocoapods，并发过几个到Cocoapods；
+- 熟练使用CoreAnimation；
+- 熟练使用Objective-C / C开发语言，UIkit框架，iOS网络编程之json解析、get/post方法、同步异步加载数据； 
+- 熟悉数据库的基本操作；
+- 熟悉通知栏控件开发；
+- 对安卓有一定的了解；
+- 了解Html/MarkDown的基本语法和基本用法； 
+- Blog：http://blog.csdn.net/whde_006
+- GitHub：https://github.com/whde
 ### 项目经验
 - 2014/8-至今
     * **项目名**：自游邦
