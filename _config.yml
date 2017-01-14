@@ -1,0 +1,8 @@
+title: Whde.GitHub.com
+description: 我的简历
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
