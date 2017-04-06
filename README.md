@@ -26,8 +26,8 @@
 - 熟悉通知栏控件开发；
 - 对安卓有一定的了解；
 - 了解Html/MarkDown的基本语法和基本用法； 
-- Blog：http://blog.csdn.net/whde_006
-- GitHub：https://github.com/whde
+- Blog：[http://blog.csdn.net/whde_006](http://blog.csdn.net/whde_006)
+- GitHub：[https://github.com/whde](https://github.com/whde)
 
 ### 项目经验
 - 2016/6-至今
